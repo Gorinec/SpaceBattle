@@ -7,7 +7,7 @@
 
 ## 🎮 Геймплей
 
-<video src="https://github.com/Gorinec/SpaceBattle/raw/main/Space%20%D0%A0%D1%83%D0%B1%D0%BA%D0%B0.mp4" controls width="100%"></video>
+[![Смотреть геймплей](https://img.youtube.com/vi/rpiXqSe81PE/0.jpg)](https://youtu.be/rpiXqSe81PE)
 
 ## 📸 Скриншоты
 
