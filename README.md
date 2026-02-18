@@ -7,7 +7,7 @@
 
 ## 🎮 Геймплей
 
-[![Space Рубка](https://github.com/Gorinec/SpaceBattle/blob/main/Space%20%D0%A0%D1%83%D0%B1%D0%BA%D0%B0.mp4?raw=true)](https://github.com/Gorinec/SpaceBattle/blob/main/Space%20%D0%A0%D1%83%D0%B1%D0%BA%D0%B0.mp4?raw=true)
+![Space Рубка](https://github.com/Gorinec/SpaceBattle/blob/main/Space%20Рубка.mp4?raw=true)
 
 ## 📸 Скриншоты
 
